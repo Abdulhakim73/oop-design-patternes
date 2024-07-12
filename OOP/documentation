@@ -1,0 +1,16 @@
+
+|---------------------------|
+|       types of OOP        |
+|---------------------------|
+
+1. class & object & attributes,properties
+2. __construct
+3. Inheritance & final class and methods
+4. Access Modifiers - public & protected & private
+5. abstract class & abstract method
+6. interfaces
+7. trait
+8. static methods & properties
+9. const variable
+10. autoload.php & give namespace & required_once
+

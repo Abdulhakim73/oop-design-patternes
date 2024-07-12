@@ -1,0 +1,11 @@
+
+|---------------------------|
+| types of design principle |
+|---------------------------|
+
+1. Don't repeat yourself - (avoids repeat code, Product)
+2. Encapsulation what changes - (exp:index-3.php, o'zgaruvchilarni alohida classga olib qo'y)
+3. Favor composition over inheritance - (exp:index-2.php, Coffee machine (yig'ib olish meros qilib olishdan afzal))
+4. Program for interface - (exp: index-2.php, connectorga interface yoki abstract berish)
+5. Loose coupling - (classlar, attributelar bir biriga bo'sh bog'langan bo'lsin index-4.php
+        exp: if we take interface is parent, when he loose his child he doesn't care about it)
